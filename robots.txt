@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eokaetoot.one-sec-vid.com/sitemap.xml
